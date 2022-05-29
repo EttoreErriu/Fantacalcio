@@ -1,0 +1,95 @@
+.player-tittle{
+    padding: 15px;
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+.show-single {
+    text-align: center;
+    margin-left: 8%;
+}
+
+.title-showplayer {
+    padding: 10px;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    background: linear-gradient(to bottom right, rgba(0,212,255,1) 40%, rgba(10,10,235,1) 65%);
+    color: white; 
+    margin-bottom: 20px;
+}
+
+.showplayer-box {
+    text-align: center;
+    margin-left: 10%;
+}
+
+.row-players{
+   margin-left: 20px;
+}
+
+.row-players:hover{
+    color: aquamarine;
+    font-weight: 500;
+}
+
+.list-team {
+    font-size: 30px;
+    padding: 2px;
+}
+
+.list-team:hover{
+    color: blue;
+    font-weight: 800;
+}
+
+.list-players {
+    font-size: 30px;
+    padding: 2px;
+}
+
+.card-player {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: space;
+    background-size: 700px auto;
+}
+
+.card{
+    width: 35rem;
+    padding: 2%;
+    border: solid 3px black;
+    background: linear-gradient(to bottom right, rgb(44, 44, 247) 44%, rgba(0,212,255,1) 60%);    
+}
+
+.card-title {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: black;
+}
+
+img {
+    width: 300px;
+    max-height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px black;
+}
+
+.card-text {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.icon-size {
+    padding: 20px;
+    font-size: 30px;
+}

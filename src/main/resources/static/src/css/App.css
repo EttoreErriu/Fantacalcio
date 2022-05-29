@@ -1,0 +1,25 @@
+.classifica-table {
+    margin-top: 50px;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    
+}
+
+.thead-color {
+    background-color: rgba(0,212,255,1);
+    border: 1px solid black;
+    color: rgba(10,10,235,1);
+}
+
+ td {
+    padding: 10px;
+    font-weight: bold;
+}
+
+tbody:hover {
+    background-color: blue;
+    color: white;
+}

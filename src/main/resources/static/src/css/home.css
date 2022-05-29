@@ -1,0 +1,39 @@
+.logout-button {
+    background-image: linear-gradient(to right, #FFCE00 50%, #FFCE00 50%,#FE4880);
+    transition: 0.4s;
+    color: #FFF !important;
+    border-radius: 8px;
+    font-weight: 700;
+    cursor: pointer;
+    float: right;
+    height: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+.navbar {
+    height: 150px;
+    font-size: 40px;
+    background: linear-gradient(to bottom right, rgba(10,10,235,1) 35%, rgba(0,212,255,1) 60%); 
+}
+
+.navbar-brand {
+    font-size: 60px !important;
+    font-weight: bold;
+    font-style: italic;
+    color: white !important;   
+}
+
+.nav-link {
+    padding-left: 70px !important;
+    color: lightgray !important;   
+}
+
+.nav-link:hover {
+    font-size: 110%;
+    color: black !important;
+}
+
+
+

@@ -1,0 +1,22 @@
+.box-matches {
+    margin-left: 7%;
+}
+
+.title-matches {
+    padding: 10px;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    background: linear-gradient(to bottom right, rgba(0,212,255,1) 40%, rgba(10,10,235,1) 65%);
+    color: white; 
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.row-matches {
+    margin-top: 20px;
+    text-align: center;
+    
+}
